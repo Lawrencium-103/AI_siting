@@ -1,0 +1,68 @@
+campus,year,ttm_pue,source,split,pred
+"Loudoun County, Virginia",2021,1.1,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0939741380053007
+"Loudoun County, Virginia",2022,1.09,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0924317275479172
+"Loudoun County, Virginia",2023,1.08,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0894178468187867
+"Loudoun County, Virginia",2024,1.09,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0919515832911901
+"Loudoun County, Virginia",2025,1.08,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0922780752339847
+"St. Ghislain, Belgium",2021,1.08,https://datacenters.google/efficiency (Q4 TTM),fit,1.080247333858034
+"St. Ghislain, Belgium",2022,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.0800062297477029
+"St. Ghislain, Belgium",2023,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.0811071251616786
+"St. Ghislain, Belgium",2024,1.08,https://datacenters.google/efficiency (Q4 TTM),fit,1.0810766150134379
+"St. Ghislain, Belgium",2025,1.08,https://datacenters.google/efficiency (Q4 TTM),fit,1.0807198211814701
+Singapore,2021,1.13,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.165387402277425
+Singapore,2022,1.13,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.1654820661166627
+Singapore,2023,1.13,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.1661082266488112
+Singapore,2024,1.13,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.1668671895516103
+Singapore,2025,1.12,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.1655363067528586
+"Council Bluffs, Iowa",2021,1.12,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0914345105707117
+"Council Bluffs, Iowa",2022,1.12,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.090684770417967
+"Council Bluffs, Iowa",2023,1.11,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0885880465452407
+"Council Bluffs, Iowa",2024,1.11,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0890066413741322
+"Council Bluffs, Iowa",2025,1.11,https://datacenters.google/efficiency (Q4 TTM; first facility),fit,1.0923197085556735
+"Changhua County, Taiwan",2021,1.12,https://datacenters.google/efficiency (Q4 TTM),fit,1.1253763930856253
+"Changhua County, Taiwan",2022,1.12,https://datacenters.google/efficiency (Q4 TTM),fit,1.1260611946542538
+"Changhua County, Taiwan",2023,1.12,https://datacenters.google/efficiency (Q4 TTM),fit,1.1262132926230777
+"Changhua County, Taiwan",2024,1.13,https://datacenters.google/efficiency (Q4 TTM),fit,1.1313688325935733
+"Changhua County, Taiwan",2025,1.13,https://datacenters.google/efficiency (Q4 TTM),fit,1.1269352421237346
+"Quilicura, Chile",2021,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.0791315553029734
+"Quilicura, Chile",2022,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.0790377712039798
+"Quilicura, Chile",2023,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.078881166583669
+"Quilicura, Chile",2024,1.09,https://datacenters.google/efficiency (Q4 TTM),fit,1.0791162921640516
+"Quilicura, Chile",2025,1.08,https://datacenters.google/efficiency (Q4 TTM),fit,1.0788721083242814
+"Midlothian, Texas",2022,1.16,https://datacenters.google/efficiency (Q4 TTM),fit,1.1077572710619232
+"Midlothian, Texas",2023,1.13,https://datacenters.google/efficiency (Q4 TTM),fit,1.1068928772452096
+"Midlothian, Texas",2024,1.1,https://datacenters.google/efficiency (Q4 TTM),fit,1.1088475026641902
+"Midlothian, Texas",2025,1.1,https://datacenters.google/efficiency (Q4 TTM),fit,1.1075505833990322
+"Dublin, Ireland",2021,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0801673665763283
+"Dublin, Ireland",2022,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0802206859209296
+"Dublin, Ireland",2023,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0802761299017989
+"Dublin, Ireland",2024,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0803870061358942
+"Dublin, Ireland",2025,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0801487214963708
+"Eemshaven, Netherlands",2021,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0802074519124856
+"Eemshaven, Netherlands",2022,1.07,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0804794115588197
+"Eemshaven, Netherlands",2023,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.080639456279519
+"Eemshaven, Netherlands",2024,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0806288172861493
+"Eemshaven, Netherlands",2025,1.07,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0805522773260567
+"Fredericia, Denmark",2022,1.12,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0806287223254787
+"Fredericia, Denmark",2023,1.1,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0803166836219558
+"Fredericia, Denmark",2024,1.07,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0805751886442216
+"Fredericia, Denmark",2025,1.07,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0805404781044003
+"The Dalles, Oregon",2021,1.11,https://datacenters.google/efficiency (Q4 TTM; first facility),holdout,1.0818482469861554
+"The Dalles, Oregon",2022,1.1,https://datacenters.google/efficiency (Q4 TTM; first facility),holdout,1.0809971842058006
+"The Dalles, Oregon",2023,1.1,https://datacenters.google/efficiency (Q4 TTM; first facility),holdout,1.0804701412392845
+"The Dalles, Oregon",2024,1.1,https://datacenters.google/efficiency (Q4 TTM; first facility),holdout,1.0805081854155814
+"The Dalles, Oregon",2025,1.1,https://datacenters.google/efficiency (Q4 TTM; first facility),holdout,1.0810783198498473
+"Douglas County, Georgia",2021,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0989685741807242
+"Douglas County, Georgia",2022,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0991659792737665
+"Douglas County, Georgia",2023,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0950500329991646
+"Douglas County, Georgia",2024,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.096367773989461
+"Douglas County, Georgia",2025,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.098314087780508
+"Henderson, Nevada",2022,1.11,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0865281827174005
+"Henderson, Nevada",2023,1.08,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0814011846521612
+"Henderson, Nevada",2024,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0821582438048927
+"Henderson, Nevada",2025,1.09,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0795259926263896
+"Mayes County, Oklahoma",2021,1.1,https://datacenters.google/efficiency (Q4 TTM),holdout,1.1013743826048177
+"Mayes County, Oklahoma",2022,1.1,https://datacenters.google/efficiency (Q4 TTM),holdout,1.100979127401112
+"Mayes County, Oklahoma",2023,1.1,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0992293927762404
+"Mayes County, Oklahoma",2024,1.11,https://datacenters.google/efficiency (Q4 TTM),holdout,1.0999585923938688
+"Mayes County, Oklahoma",2025,1.12,https://datacenters.google/efficiency (Q4 TTM),holdout,1.1011482613146633

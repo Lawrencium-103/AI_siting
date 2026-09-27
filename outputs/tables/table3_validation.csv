@@ -1,0 +1,5 @@
+Check,Model (95% interval),Reference
+Llama 3.1 405B H100-hours (M),29.4 (23.9-36.3),30.84 (Meta model card)
+Llama 3.1 405B location-based tCO2e,"13,112 (10,087-17,725) full IT boundary","8,930 (GPU-TDP boundary); recomputed at that boundary: 9,172"
+"Facility model, fit campuses (n site-years)",MAE 0.015; bias -0.000,Google TTM PUE (n = 34)
+"Facility model, hold-out campuses",MAE 0.010; bias -0.005,Google TTM PUE (n = 33); prior-only MAE 0.014

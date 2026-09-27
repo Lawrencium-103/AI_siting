@@ -1,0 +1,17 @@
+Parameter,Distribution,Min,Mode,Max,Unit,Basis
+mfu,tri,0.3,0.4,0.5,-,Llama 3 405B 38-43% BF16 MFU (Dubey et al. 2024); PaLM 46.2% (Chowdhery et al. 2023)
+p_it_per_gpu_kw,tri,0.85,1.05,1.3,kW,H100 SXM TDP 0.70 kW; DGX H100 max system power 10.2 kW / 8 GPUs = 1.275 kW; + fabric/storage share
+overhead_wallclock,tri,1.0,1.08,1.2,-,"Checkpointing, restarts and evaluation; Llama 3 reports >90% effective training time"
+f_elec,tri,0.020306447319575243,0.04030644731957524,0.07030644731957525,kW/kW_IT,"UPS, distribution and lighting losses of hyperscale facilities (Shehabi et al. 2016; 2024); mode calibrated to Google campus PUE (this study)"
+f_air,tri,0.01,0.02,0.04,kW/kW_IT,"Air-handler fan power, hot/cold aisle containment"
+t_chw,tri,20.600001375786814,24.600001375786814,25.0,degC,Elevated chilled-water supply consistent with ASHRAE TC 9.9 recommended envelope (18-27 degC inlet); mode calibrated to Google campus PUE (this study)
+a_tower,tri,3.0,4.0,6.0,K,Cooling-tower approach to wet-bulb
+a_dry,tri,6.0,8.0,12.0,K,Dry-cooler approach to dry-bulb
+eta_carnot,tri,0.45,0.55,0.65,-,Chiller second-law efficiency (fraction of Carnot COP)
+e_pump_tower,tri,0.01,0.015,0.03,kW/kW_heat,Condenser pumps and tower fans
+e_dry_fan,tri,0.01,0.02,0.04,kW/kW_heat,Dry-cooler fans
+cycles_conc,tri,3.0,5.0,8.0,-,Cooling-tower cycles of concentration (blowdown)
+phi_liquid,tri,0.7,0.8,0.9,-,Fraction of IT heat captured by direct-to-chip cold plates
+t_liquid,tri,30.0,35.0,40.0,degC,Facility water supply for warm-water DTC (ASHRAE liquid classes W32-W40)
+grid_rel_err,tri,-0.1,0.0,0.1,-,Relative uncertainty applied to Ember annual lifecycle intensity
+eta_diesel,tri,0.3,0.35,0.4,-,Diesel genset electrical efficiency; with IPCC 2006 default 74.1 tCO2/TJ fuel

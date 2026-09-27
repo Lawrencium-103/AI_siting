@@ -1,0 +1,8 @@
+Per-site capacity (share of cohort IT energy),feasible,Cohort emissions (ktCO2e),Reduction vs all-at-Ashburn (%),Reduction vs developer-country siting (%),share_Oslo,share_Paris,share_Ashburn,share_Beijing,share_Marrakech,share_Lagos
+0.2,False,,,,,,,,,
+0.25,False,,,,,,,,,
+0.3,True,343.022,50.486,52.912,0.3,0.3,0.3,0.0,0.0,0.1
+0.4,True,195.859,71.729,73.114,0.4,0.4,0.2,0.0,0.0,0.0
+0.5,True,71.914,89.62,90.128,0.5,0.499,0.001,0.0,0.0,0.0
+0.75,True,60.542,91.261,91.689,0.75,0.25,0.0,0.0,0.0,0.0
+1.0,True,49.489,92.857,93.206,1.0,0.0,0.0,0.0,0.0,0.0

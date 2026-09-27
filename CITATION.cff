@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or its outputs, please cite it as below."
+title: "ai-siting: analysis code for Siting large AI training runs"
+version: 1.0.0
+date-released: 2026-09-27
+license: MIT
+type: software
+repository-code: "https://github.com/Lawrencium-103/ai_siting"
+authors:
+  - family-names: Oladeji
+    given-names: Lawrence
+    affiliation: "University of Ibadan"
+    orcid: "https://orcid.org/0000-0003-0252-3174"
+keywords:
+  - AI training
+  - carbon footprint
+  - water footprint
+  - data centres
+  - PUE
+  - siting

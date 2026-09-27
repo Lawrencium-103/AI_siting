@@ -1,0 +1,7 @@
+Site,Country,Mean T_db (degC),P99 T_db (degC),Mean RH (%),Mean T_wb (degC),P99 T_wb (degC),Dry free-cooling h/yr,Tower free-cooling h/yr,Grid CI 2021-2025 (gCO2e/kWh)
+Oslo,Norway,7.6,24.8,77.2,5.2,18.4,6582.4,8693.0,27-30
+Paris,France,12.5,29.4,76.2,9.7,20.6,5434.4,8385.8,40-79
+Ashburn,United States,13.9,33.5,67.9,10.3,24.7,4452.6,6776.6,384-424
+Beijing,China,13.4,35.2,52.9,8.5,26.3,4427.4,6651.4,525-599
+Marrakech,Morocco,21.2,42.4,49.5,13.6,22.1,2187.4,7326.4,595-663
+Lagos,Nigeria,27.2,32.6,81.8,24.6,26.8,0.0,73.2,456-523
